@@ -6,7 +6,7 @@ namespace Koniunkcja
     {
         static void Main(string[] args)
         {
-            //Operator & jest koniunkcją bezwarunkową
+            //Operator & to koniunkcja bezwarunkowa
             double wiek = 19, kwota = 25;
             bool kino;
             kino = (wiek >= 18 & kwota++ >= 20);
@@ -14,7 +14,7 @@ namespace Koniunkcja
             Console.WriteLine(kwota);
             Console.WriteLine("");
 
-            //Operator && jest koniunkcją warunkową
+            //Operator && to koniunkcja warunkowa
             double Wiek = 15, Kwota = 25;
             bool Kino;
             Kino = (Wiek >= 18 && Kwota++ >= 20);
