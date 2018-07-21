@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logiczne", "Logiczne\Logiczne.csproj", "{F3D1EF51-C8DC-43CC-8723-291382905203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3D1EF51-C8DC-43CC-8723-291382905203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3D1EF51-C8DC-43CC-8723-291382905203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3D1EF51-C8DC-43CC-8723-291382905203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3D1EF51-C8DC-43CC-8723-291382905203}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2122A983-22D4-4B3C-A4AA-433F7FB015A0}
+	EndGlobalSection
+EndGlobal
